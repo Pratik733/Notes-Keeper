@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Notes-Keeper/static/css/main.b920a163.chunk.css",
+    "main.css": "/Notes-Keeper/static/css/main.8876bcd9.chunk.css",
     "main.js": "/Notes-Keeper/static/js/main.f4426ab3.chunk.js",
     "main.js.map": "/Notes-Keeper/static/js/main.f4426ab3.chunk.js.map",
     "runtime-main.js": "/Notes-Keeper/static/js/runtime-main.9a2fb4d4.js",
@@ -10,7 +10,7 @@
     "static/js/2.20024705.chunk.js.map": "/Notes-Keeper/static/js/2.20024705.chunk.js.map",
     "index.html": "/Notes-Keeper/index.html",
     "static/css/2.b819c703.chunk.css.map": "/Notes-Keeper/static/css/2.b819c703.chunk.css.map",
-    "static/css/main.b920a163.chunk.css.map": "/Notes-Keeper/static/css/main.b920a163.chunk.css.map",
+    "static/css/main.8876bcd9.chunk.css.map": "/Notes-Keeper/static/css/main.8876bcd9.chunk.css.map",
     "static/js/2.20024705.chunk.js.LICENSE.txt": "/Notes-Keeper/static/js/2.20024705.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/Notes-Keeper/static/media/fontawesome-webfont.f691f37e.woff"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.9a2fb4d4.js",
     "static/css/2.b819c703.chunk.css",
     "static/js/2.20024705.chunk.js",
-    "static/css/main.b920a163.chunk.css",
+    "static/css/main.8876bcd9.chunk.css",
     "static/js/main.f4426ab3.chunk.js"
   ]
 }
